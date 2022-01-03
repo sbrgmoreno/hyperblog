@@ -16,8 +16,8 @@ ciudad: riobamba
 
 pais: Ecuador
 
+ahora se queda esta parte de la modificacion
 
-esta es la linea para
-probar la versionalidad en la tercera parte
+para realizar una prueba de regreso a versiones 
 
-analizaremos diff de cada commit
+anteriores y modificadas.
