@@ -15,3 +15,9 @@ Edad: 29
 ciudad: riobamba
 
 pais: Ecuador
+
+
+esta es la linea para
+probar la versionalidad en la tercera parte
+
+analizaremos diff de cada commit
