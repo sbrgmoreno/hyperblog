@@ -7,3 +7,11 @@ crear un archivo de texto
 para git 
 
 para aprender las versionalidades
+
+nombre: Mario Moreno
+
+Edad: 29
+
+ciudad: riobamba
+
+pais: Ecuador
