@@ -8,18 +8,6 @@ para git
 
 para aprender las versionalidades
 
-nombre: Mario Moreno
+ahora se queda la primera version del primer commit 
 
-Edad: 29
-
-ciudad: riobamba
-
-pais: Ecuador
-
-ahora se queda esta parte de la modificacion
-
-para realizar una prueba de regreso a versiones 
-
-anteriores y modificadas.
-
-Para ver los cambios 
+para crear un archivo con version antigua modificada
