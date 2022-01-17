@@ -5,5 +5,7 @@ Es un ejercicio de git github de platzi
 - Elemento uno
 - Elemento dos
 - Elemento tres
+
 :fa-thumbs-o-up:
+
 :editormd-logo-3x:
