@@ -9,3 +9,5 @@ Es un ejercicio de git github de platzi
 :fa-thumbs-o-up:
 
 :editormd-logo-3x:
+
+* Hecho por el team  Mario
