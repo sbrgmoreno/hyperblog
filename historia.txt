@@ -11,3 +11,5 @@ para aprender las versionalidades
 ahora se queda la primera version del primer commit 
 
 para crear un archivo con version antigua modificada
+
+
