@@ -11,3 +11,5 @@ Es un ejercicio de git github de platzi
 :editormd-logo-3x:
 
 * Hecho por el team  Mario
+* Ecuador en Plazti
+*Para todas las edades
